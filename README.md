@@ -15,7 +15,7 @@ le troisième degré, ou les contacts de nos contacts de deuxième degré. <br/>
 <br/>
 LinkedIn peut être utilisé pour tout ce qui concerne la vie professionnelle : trouver du travail, des employeurs, des prestataires, développer les affaires, etc. <br/>
 LinkedIn ne concerne pas uniquement les entreprises mais aussi les associations.<br/>
-Tu peut recommander des gens a des chef d'entreprises.<br/>
+Tu peux recommander des gens a des chefs d'entreprises.<br/>
 Ce réseau social permet de vraiment mettre c'est projet en avant, on peut par exemple parler du Bénévolat réaliser, des passions, on peut liée un compte GitHub etc. <br/>
 LinkedIn possède aussi une application mobile. <br/>
 L'utilisation du réseau LinkedIn d'un grand nombre de membres est assez réduite. Pourtant, les données de LinkedIn montrent que le temps d'utilisation augmente avec le temps de souscription. En d'autres termes, plus on utilise LinkedIn et plus on va l'utiliser. <br/>
@@ -55,16 +55,16 @@ Plusieur Fonctionnalité<br/>
 - Rejoindre des groupes pour élargir le réseau et avoir une meilleur visibilié.<br/>
 - Pouvoir suivre les contactes<br/>
 - Proposition de liste d'emploie.<br/>
-<h2> __Différence avec viadéo__<br/> </h2>
+<h2> __Différence avec Viadéo__<br/> </h2>
 
 *Viadeo et LinkedIn revendiquent tous deux 10 millions d’utilisateurs en France. En revanche, l’activité est plus importante sur LinkedIn, qui compte 7,7 millions d’utilisateurs actifs contre 4,4 millions pour Viadeo.<br/>
 
 Viadeo compte en effet 65 millions d’inscrits dans le monde, contre 364 millions pour LinkedIn.<br/>
 Viadéo : 60 % d'entreprises de moins de 100 salariés <br/>
 LinkedIn : 30 % d'entreprises entre 1 000 et 10 000 salariés <br/>
-Viadéo moins chere mais moin de contenue<br/>
+Viadéo moins chere mais moins de contenue<br/>
 Linked In beaucoup plus chere, plusieur pallier de Premium mais acces a plus de contenue<br/>
-Discussion ranger par ordre d'importance sur Linked In, alors que ranger par ordre chronologique par viadéo.<br/>
+Discussion ranger par ordre d'importance sur Linked In, alors que ranger par ordre chronologique par Viadéo.<br/>
 Pour le travail en France choisir plus Viadéo, alors que pour travail a l'international choisir plus LinkedIn, met il semble que LinkedIn rattrape sont retard en france.<br/>
 Notons toutefois que Viadeo a marqué un point récemment avec la sortie de son appli “Let’s Meet”. Celle-ci permet de rencontrer facilement des professionnels à proximité grâce à la géolocalisation. En un “swipe”, l’utilisateur décide si tel profil l’intéresse ou non. Si 2 profils s’intéressent mutuellement, il y a “matching” et la possibilité de discuter directement.<br/>
-__En conclusion__ : Pour le travail en France choisir plus Viadéo, alors que pour travail a l'international choisir plus LinkedIn, met il semble que Linked In rattrape sont retard en france.<br/>
+__En conclusion__ : Pour le travail en France choisir plus Viadéo, alors que pour le travail a l'international choisir plus LinkedIn, met il semble que LinkedIn rattrape sont retard en france.<br/>
