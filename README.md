@@ -44,12 +44,13 @@ Etudiant Ou pas <br/>
 Nom du Travail <br/>
 Entreprise <br/>
 Secteur <br/>
-Interet : Construire un réseau pro, Suivre l'actu du secteur, Rester en contact avec mon réseau, Trouver un emploi, Ouvert aux sugestion <br/>
+Interet : Construire un réseau pro, Suivre l'actu du secteur, Rester en contact avec mon réseau, Trouver un emploi, Ouvert aux suggestion <br/>
 Confirmation addresse mail <br/>
 Propositon d'importation des contacte. <br/>
 Plusieur Fonctionnalité<br/>
 
 - Partager des articles avec notre réseau <br/> 
+- Afficher nos compétences dans différents domaines, chose que l'on ne peut pas faire avec les autres réseaux sociaux
 - Enlever les relations <br/>
 - Surveiller qui voit notre profil, pour pouvoir l'adapter<br/>
 - Rejoindre des groupes pour élargir le réseau et avoir une meilleur visibilié.<br/>
